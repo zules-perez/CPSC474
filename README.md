@@ -1,2 +1,2 @@
 # CPSC474
-Parallel and Distributed Computing
+## Parallel and Distributed Computing
